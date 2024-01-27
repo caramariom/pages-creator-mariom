@@ -1,4 +1,4 @@
 ---
 title: "Mariom Page"
-date: MM-DD-YYYY
+date: 01-27-2024
 ---
