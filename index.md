@@ -1,5 +1,5 @@
 ---
-Title: Welcome to my blog
+Title: Welcome to Mariom's blog
 date: 2024/01/27
 ---
 
