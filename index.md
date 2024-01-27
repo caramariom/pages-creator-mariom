@@ -1,5 +1,5 @@
 ---
 Title: Welcome to my blog
-date:
+date: 2024-01-27
 ---
 
